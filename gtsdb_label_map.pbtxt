@@ -1,0 +1,209 @@
+item {
+  name: "Speed limit (20km/h)"
+  id: 0
+}
+
+item {
+  name: "Speed limit (30km/h)"
+  id: 1
+}
+
+item {
+  name: "Speed limit (50km/h)"
+  id: 2
+}
+
+item {
+  name: "Speed limit (60km/h)"
+  id: 3
+}
+
+item {
+  name: "Speed limit (70km/h)"
+  id: 4
+}
+
+item {
+  name: "Speed limit (80km/h)"
+  id: 5
+}
+
+item {
+  name: "End of speed limit (80km/h)"
+  id: 6
+}
+
+item {
+  name: "Speed limit (100km/h)"
+  id: 7
+}
+
+item {
+  name: "Speed limit (120km/h)"
+  id: 8
+}
+
+item {
+  name: "No passing"
+  id: 9
+}
+
+item {
+  name: "No passing for vehicles over 3.5 metric tons"
+  id: 10
+}
+
+item {
+  name: "Right-of-way at the next intersection"
+  id: 11
+}
+
+item {
+  name: "Priority road"
+  id: 12
+}
+
+item {
+  name: "Yield"
+  id: 13
+}
+
+item {
+  name: "Stop"
+  id: 14
+}
+
+item {
+  name: "No vehicles"
+  id: 15
+}
+
+item {
+  name: "Vehicles over 3.5 metric tons prohibited"
+  id: 16
+}
+
+item {
+  name: "No entry"
+  id: 17
+}
+
+item {
+  name: "General caution"
+  id: 18
+}
+
+item {
+  name: "Dangerous curve to the left"
+  id: 19
+}
+
+item {
+  name: "Dangerous curve to the right"
+  id: 20
+}
+
+item {
+  name: "Double curve"
+  id: 21
+}
+
+item {
+  name: "Bumpy road"
+  id: 22
+}
+
+item {
+  name: "Slippery road"
+  id: 23
+}
+
+item {
+  name: "Road narrows on the right"
+  id: 24
+}
+
+item {
+  name: "Road work"
+  id: 25
+}
+
+item {
+  name: "Traffic signals"
+  id: 26
+}
+
+item {
+  name: "Pedestrians"
+  id: 27
+}
+
+item {
+  name: "Children crossing"
+  id: 28
+}
+
+item {
+  name: "Bicycles crossing"
+  id: 29
+}
+
+item {
+  name: "Beware of ice/snow"
+  id: 30
+}
+
+item {
+  name: "Wild animals crossing"
+  id: 31
+}
+
+item {
+  name: "End of all speed and passing limits"
+  id: 32
+}
+
+item {
+  name: "Turn right ahead"
+  id: 33
+}
+
+item {
+  name: "Turn left ahead"
+  id: 34
+}
+
+item {
+  name: "Ahead only"
+  id: 35
+}
+
+item {
+  name: "Go straight or right"
+  id: 36
+}
+
+item {
+  name: "Go straight or left"
+  id: 37
+}
+
+item {
+  name: "Keep right"
+  id: 38
+}
+
+item {
+  name: "Roundabout mandatory"
+  id: 40
+}
+
+item {
+  name: "End of no passing"
+  id: 41
+}
+
+item {
+  name: "End of no passing by vehicles over 3.5 metric tons"
+  id: 42
+}
