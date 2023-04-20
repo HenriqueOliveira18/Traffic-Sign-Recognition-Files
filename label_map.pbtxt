@@ -1,209 +1,204 @@
 item {
   name: "Speed limit (20km/h)"
-  id: 0
-}
-
-item {
-  name: "Speed limit (30km/h)"
   id: 1
 }
 
 item {
-  name: "Speed limit (50km/h)"
+  name: "Speed limit (30km/h)"
   id: 2
 }
 
 item {
-  name: "Speed limit (60km/h)"
+  name: "Speed limit (50km/h)"
   id: 3
 }
 
 item {
-  name: "Speed limit (70km/h)"
+  name: "Speed limit (60km/h)"
   id: 4
 }
 
 item {
-  name: "Speed limit (80km/h)"
+  name: "Speed limit (70km/h)"
   id: 5
 }
 
 item {
-  name: "End of speed limit (80km/h)"
+  name: "Speed limit (80km/h)"
   id: 6
 }
 
 item {
-  name: "Speed limit (100km/h)"
+  name: "End of speed limit (80km/h)"
   id: 7
 }
 
 item {
-  name: "Speed limit (120km/h)"
+  name: "Speed limit (100km/h)"
   id: 8
 }
 
 item {
-  name: "No passing"
+  name: "Speed limit (120km/h)"
   id: 9
 }
 
 item {
-  name: "No passing for vehicles over 3.5 metric tons"
+  name: "No passing"
   id: 10
 }
 
 item {
-  name: "Right-of-way at the next intersection"
+  name: "No passing for vehicles over 3.5 metric tons"
   id: 11
 }
 
 item {
-  name: "Priority road"
+  name: "Right-of-way at the next intersection"
   id: 12
 }
 
 item {
-  name: "Yield"
+  name: "Priority road"
   id: 13
 }
 
 item {
-  name: "Stop"
+  name: "Yield"
   id: 14
 }
 
 item {
-  name: "No vehicles"
+  name: "Stop"
   id: 15
 }
 
 item {
-  name: "Vehicles over 3.5 metric tons prohibited"
+  name: "No vehicles"
   id: 16
 }
 
 item {
-  name: "No entry"
+  name: "Vehicles over 3.5 metric tons prohibited"
   id: 17
 }
 
 item {
-  name: "General caution"
+  name: "No entry"
   id: 18
 }
 
 item {
-  name: "Dangerous curve to the left"
+  name: "General caution"
   id: 19
 }
 
 item {
-  name: "Dangerous curve to the right"
+  name: "Dangerous curve to the left"
   id: 20
 }
 
 item {
-  name: "Double curve"
+  name: "Dangerous curve to the right"
   id: 21
 }
 
 item {
-  name: "Bumpy road"
+  name: "Double curve"
   id: 22
 }
 
 item {
-  name: "Slippery road"
+  name: "Bumpy road"
   id: 23
 }
 
 item {
-  name: "Road narrows on the right"
+  name: "Slippery road"
   id: 24
 }
 
 item {
-  name: "Road work"
+  name: "Road narrows on the right"
   id: 25
 }
 
 item {
-  name: "Traffic signals"
+  name: "Road work"
   id: 26
 }
 
 item {
-  name: "Pedestrians"
+  name: "Traffic signals"
   id: 27
 }
 
 item {
-  name: "Children crossing"
+  name: "Pedestrians"
   id: 28
 }
 
 item {
-  name: "Bicycles crossing"
+  name: "Children crossing"
   id: 29
 }
 
 item {
-  name: "Beware of ice/snow"
+  name: "Bicycles crossing"
   id: 30
 }
 
 item {
-  name: "Wild animals crossing"
+  name: "Beware of ice/snow"
   id: 31
 }
 
 item {
-  name: "End of all speed and passing limits"
+  name: "Wild animals crossing"
   id: 32
 }
 
 item {
-  name: "Turn right ahead"
+  name: "End of all speed and passing limits"
   id: 33
 }
 
 item {
-  name: "Turn left ahead"
+  name: "Turn right ahead"
   id: 34
 }
 
 item {
-  name: "Ahead only"
+  name: "Turn left ahead"
   id: 35
 }
 
 item {
-  name: "Go straight or right"
+  name: "Ahead only"
   id: 36
 }
 
 item {
-  name: "Go straight or left"
+  name: "Go straight or right"
   id: 37
 }
 
 item {
-  name: "Keep right"
+  name: "Go straight or left"
   id: 38
 }
 
 item {
-  name: "Roundabout mandatory"
-  id: 40
+  name: "Keep right"
+  id: 39
 }
 
 item {
-  name: "End of no passing"
+  name: "Roundabout mandatory"
   id: 41
 }
 
 item {
-  name: "End of no passing by vehicles over 3.5 metric tons"
+  name: "End of no passing"
   id: 42
 }
